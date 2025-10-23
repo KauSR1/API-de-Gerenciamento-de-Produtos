@@ -33,7 +33,7 @@ Prover uma interface RESTful simples para gerenciamento de produtos, com valida√
 ### 1. Clone o projeto
 
 ```bash
-git clone https://github.com/seu-usuario/api-produtos.git
+git clone https://github.com/KauSR1/api-produtos.git
 cd api-produtos
 ```
 
